@@ -11,3 +11,8 @@ Project Period: 15-Aug-23 to 14-Aug-24
 Faculty PI: Dr. Dhan Lord B. Fortela
 
 Mentored LURA Student: Lorin Bernard
+
+LaSPACE: https://laspace.lsu.edu// 
+
+Louisiana NASA EPSCoR: https://lanasaepscor.lsu.edu/ 
+ 
