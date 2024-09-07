@@ -8,9 +8,9 @@ LSU/LaSPACE Sub-award Number: GR00013285
 
 Project Period: 15-Aug-23 to 14-Aug-24
 
-Faculty PI: Dr. Dhan Lord B. Fortela
-
 Mentored LURA Student: Lorin Bernard
+
+Faculty PI: Dr. Dhan Lord B. Fortela
 
 LaSPACE: https://laspace.lsu.edu// 
 
